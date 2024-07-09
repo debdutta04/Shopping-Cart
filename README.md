@@ -1,4 +1,4 @@
-Getting Started with Your React Project
+<b>Getting Started with Your React Project<b>
 This project was initiated with Create React App.
 
 Available Scripts
